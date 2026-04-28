@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Synaptic Painting</string>
+    <string name="ai_draw">AI draw</string>
+    <string name="brush_size">Brush size</string>
+    <string name="color">Color</string>
+</resources>
